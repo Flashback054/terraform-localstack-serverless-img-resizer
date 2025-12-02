@@ -1,3 +1,6 @@
+This project is cloned from LocalStack's sample repository for a serverless image resizer application using Lambda and S3 with hot reloading capabilities. I decided to use this project as a starting point for my own experiments with LocalStack and serverless architectures.
+My blog post about this project can be found at: https://flashback054-blog.vercel.app/devops/projects/serverless-image-resizer/serverless-image-resizer-on-local-stack-with-terraform/
+
 # Serverless Image Resizer with Lambda and S3 on LocalStack
 
 [![GitHub Actions](https://github.com/localstack-samples/sample-lambda-s3-image-resizer-hot-reload/actions/workflows/integration-test.yml/badge.svg)](https://github.com/localstack-samples/sample-lambda-s3-image-resizer-hot-reload/actions/workflows/integration-test.yml)

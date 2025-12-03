@@ -12,5 +12,3 @@ variable "website_bucket" {
   description = "The name of the S3 bucket to host the website"
   type        = string
 }
-
-
